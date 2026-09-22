@@ -38,11 +38,8 @@ This method may not:
 Compatibility depends on:
 - Android version
 - ROM type
-- Device security settings
-
-## Warning
-
-Always backup important data before modifying Android settings.
+- Device security settings.
+  
 
 # Root vs Shizuku
 
@@ -133,3 +130,7 @@ Solutions:
 - Recheck permissions
 - Update applications
 - Check Android version compatibility
+  
+## Warning
+
+Always backup important data before modifying Android settings.
